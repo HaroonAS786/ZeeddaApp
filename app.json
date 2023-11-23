@@ -1,0 +1,11 @@
+{
+  "name": "zeeddaApp",
+  "displayName": "zeeddaApp",
+  "expo": {
+    "extra": {
+      "eas": {
+        "projectId": "d561c571-c78e-471f-af62-91e3e1d033f3"
+      }
+    }
+  }
+}
