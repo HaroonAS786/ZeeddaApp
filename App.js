@@ -179,7 +179,6 @@ function App() {
           screenOptions={{
             activeTintColor: '#e91e63',
             itemStyle: {padding: 0},
-
             headerShown: false,
           }}
           drawerContent={props => <CustomSidebarMenu {...props} />}>
